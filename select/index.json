@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "爆咲羅針盤",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-02-18T11:16:59.809249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爆咲羅針盤 (feat. 太心)",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_爆咲羅針盤_(feat._太心)_SKRYU.txt"
+    }
+  ]
+}
